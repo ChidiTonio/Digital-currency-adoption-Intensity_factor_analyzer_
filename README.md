@@ -487,7 +487,7 @@ Recommended options:
 [Anthony Chidi Nzomiwu]
 PhD Researcher
 [Department Digital Currency / Faculty Computer Science]
-[University Name]
+
 ```
 
 ---
